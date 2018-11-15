@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <Module specificationVersion='2'>
-  <ModulePrefs title="YouTube Connection" width="570" height="325" author="Samantha Menapace" description="Embeds a YouTube video in an OpenSocial URL Gadget">
+  <ModulePrefs title="Abiomed YouTube Chanel V1" width="570" height="325" author="Samantha Menapace" description="Embeds a YouTube video in an OpenSocial URL Gadget">
     <Require feature="wave" />
     <Require feature="dynamic-height" />
   </ModulePrefs>
