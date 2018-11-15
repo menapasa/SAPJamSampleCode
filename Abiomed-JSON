@@ -1,0 +1,12 @@
+{
+  "basis": "external",
+  "context": "content",
+  "search_paths": "",
+  "registered_url": "https://raw.githubusercontent.com/menapasa/SAPJamSampleCode/master/OpenSocial/Gadget/youtubeurlgadget/url.xml",
+  "oauth1_services": [
+
+  ],
+  "oauth2_services": [
+
+  ]
+}
