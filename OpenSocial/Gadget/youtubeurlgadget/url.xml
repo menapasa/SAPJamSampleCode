@@ -4,5 +4,5 @@
     <Require feature="wave" />
     <Require feature="dynamic-height" />
   </ModulePrefs>
-  <Content type="html" href="https://www.youtube.com/user/AbiomedImpella/featured.html" />
+  <Content type="html" href="https://www.youtube.com/user/AbiomedImpella/featured" />
 </Module >
